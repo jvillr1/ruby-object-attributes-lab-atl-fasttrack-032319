@@ -15,4 +15,3 @@ class Dog
     @breed
   end
 end
-© 2019 GitHub, Inc.
